@@ -78,7 +78,7 @@
 </form>
 
 	
-<head><title>家乡</title>
+<head>
 </head>
 <body>
 <h1><center><font color="red" size="10">合肥</font></center></h1>
