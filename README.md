@@ -46,45 +46,14 @@
 	<p align="center">希望我在安师大的四年能让自己不留遗憾，加油！</p>
 	
 	</body>
-</html>
 
-我的相册
-<html>
-<head>
-<title>关于自己的记忆</title>
-</head>
-<body>
-<p>
-<img src="初中的我.jpg" alt=“初中的我”   width="333" height="333"><img src="军训照片.jpg"  alt=“军训” width="333" height="333">  <img src="大学的我.png"  alt=“大学的我”width="333" height="333"> 
-<br>
+
+
+
 <a href="图书馆.jpg" align="right">
 <img border="0" src="图标.jpg"  align="right" width="70" height="40">
 </a>
-</p>
-</body>
-</html>
-
-
-大一大二学习规划
-<html>
-<head><title>学习</title>
-</head>
-<body>
-<ul>
-<font>
-<h1 >大一</h1>
-<font size="5"> 
-<ul type="circle" >
-<li>认真听课，下课多问问题，勤思考</li>
-<li>按时完成编程作业</li>
-</font>
-</ul>
-<h1>大二</h1>
-<font size="5"> 
-<ul type="circle" >
-<li>努力学好离散数学、模电和java</li>
-<li>必须保证一定的编程题量</li>
-</font>
+	
 </ul>
 <table border="1" width="500">
 
@@ -103,17 +72,12 @@
 </table>
 <form>
 <br>
-<a href="周凌峰的网站.html" >
+<a href="zhoulingfeng666.github.io" >
 <input type="button" value="返回首页">
 </a>
 </form>
-</body>
-</html>
 
-
-
-我的家乡
-<html>
+	
 <head><title>家乡</title>
 </head>
 <body>
@@ -152,10 +116,8 @@
 大哥大姐想给我留言吗：<textarea rows="10" cols="30">
    </textarea>
 <input type="submit" value="Submit">
-</form>
 <br>
 <a href="留言板.txt" align="right">
 <img border="0" src="图标.jpg"  align="right" width="70" height="40">
 </a>
-</body>
-</html>
+
