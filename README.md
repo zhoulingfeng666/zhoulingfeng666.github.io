@@ -41,41 +41,6 @@
 <td align="center">周凌峰</td>
 <td align="center">3.13</td>
 <td align="center">绿茵场上司职前锋，篮球场上勇担小前锋一职</td>
-</font>
-</p>
-	<p align="center">希望我在安师大的四年能让自己不留遗憾，加油！</p>
-	
-	</body>
-
-
-
-
-<a href="图书馆.jpg" align="right">
-<img border="0" src="图标.jpg"  align="right" width="70" height="40">
-</a>
-	
-</ul>
-<table border="1" width="500">
-
-<tr>
-	<th> 一 </th>
-	<td bgcolor="red">坚持早起，认真完成高数、线代作业</td>
-</tr>
-<tr>
-	<th> 二 </th>
-	<td background="D:\图片\4.jpg">坚持写oj题目</td>
-</tr>
-<tr>
-	<th> 三 </th>
-	<td>打好基础</td>
-</tr>
-</table>
-<form>
-<br>
-<a href="zhoulingfeng666.github.io" >
-<input type="button" value="返回首页">
-</a>
-</form>
 
 	
 <head>
@@ -90,7 +55,7 @@
 </font>
 <form>
 <br>
-<a href="周凌峰的网站.html" >
+<a href="zhoulingfeng666.github.io" >
 <input type="button" value="返回首页">
 </a>
 </form>
