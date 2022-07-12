@@ -1,37 +1,161 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zhoulingfeng666/zhoulingfeng666.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<html>
+ 	<head>
+		<title > 这里是周凌峰的主页</title>
+		
+	</head>
+	<body background="背景.jpg">
+	<hr />
+		<h1 align="center">欢迎来到我的世界，我是21级计信4班的周凌峰！</h1>
+	<hr/>
+<font size="6" color="blue">  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<pre>
+<p  align="center">             <a  href="周凌峰的网站.html" >
+首页</a>             
+<a  href="我的相册.html" >
+我的相册</a>             
+<a  href="大一大二学习规划.html" >
+大一大二学习规划</a>           
+<a  href="我的家乡.html" >
+我的家乡</a>          
+ <a  href="我的故事.txt" >
+我的故事</a>                
+</p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</pre>
 
-```markdown
-Syntax highlighted code block
+	<br>
+	<br>
 
-# Header 1
-## Header 2
-### Header 3
+<p align="center">
+<table width="400" height="200" border="1">
+<font size="20">
+<tr>
+<th>姓名</th>
+<th>生日</th>
+<th>我滴爱好</th>
+</tr>
+<tr>
+<td align="center">周凌峰</td>
+<td align="center">3.13</td>
+<td align="center">绿茵场上司职前锋，篮球场上勇担小前锋一职</td>
+</font>
+</p>
+	<p align="center">希望我在安师大的四年能让自己不留遗憾，加油！</p>
+	
+	</body>
+</html>
 
-- Bulleted
-- List
+我的相册
+<html>
+<head>
+<title>关于自己的记忆</title>
+</head>
+<body>
+<p>
+<img src="初中的我.jpg" alt=“初中的我”   width="333" height="333"><img src="军训照片.jpg"  alt=“军训” width="333" height="333">  <img src="大学的我.png"  alt=“大学的我”width="333" height="333"> 
+<br>
+<a href="图书馆.jpg" align="right">
+<img border="0" src="图标.jpg"  align="right" width="70" height="40">
+</a>
+</p>
+</body>
+</html>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+大一大二学习规划
+<html>
+<head><title>学习</title>
+</head>
+<body>
+<ul>
+<font>
+<h1 >大一</h1>
+<font size="5"> 
+<ul type="circle" >
+<li>认真听课，下课多问问题，勤思考</li>
+<li>按时完成编程作业</li>
+</font>
+</ul>
+<h1>大二</h1>
+<font size="5"> 
+<ul type="circle" >
+<li>努力学好离散数学、模电和java</li>
+<li>必须保证一定的编程题量</li>
+</font>
+</ul>
+<table border="1" width="500">
 
-[Link](url) and ![Image](src)
-```
+<tr>
+	<th> 一 </th>
+	<td bgcolor="red">坚持早起，认真完成高数、线代作业</td>
+</tr>
+<tr>
+	<th> 二 </th>
+	<td background="D:\图片\4.jpg">坚持写oj题目</td>
+</tr>
+<tr>
+	<th> 三 </th>
+	<td>打好基础</td>
+</tr>
+</table>
+<form>
+<br>
+<a href="周凌峰的网站.html" >
+<input type="button" value="返回首页">
+</a>
+</form>
+</body>
+</html>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhoulingfeng666/zhoulingfeng666.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+我的家乡
+<html>
+<head><title>家乡</title>
+</head>
+<body>
+<h1><center><font color="red" size="10">合肥</font></center></h1>
+<font size="6">
+<p>合肥，简称“庐”或“合”，古称庐州、庐阳、合淝   ，安徽省辖地级市、省会  ，国务院批复确定的中国长三角城市群副中心城市，国家重要的科研教育基地、现代制造业基地和综合交通枢纽  。<img src="合肥市.jpg" alt=美丽合肥  align=“middle”>素有“大湖名城，创新高地”的美誉。 </p> 
 
-### Support or Contact
+<p>合肥市历史文化底蕴深厚，素有“三国旧地，包公故里，淮军摇篮”之称。兼具皖北中原文化豪迈和皖南皖江文化精明特点的合肥文化，自古以来，中原文化、楚文化、吴越文化和巢湖文化在合肥大地交融辉映，历数千年积淀传承，形成了独具特色、璀璨夺目的地域文化。</p>
+====================================================================================
+</font>
+<form>
+<br>
+<a href="周凌峰的网站.html" >
+<input type="button" value="返回首页">
+</a>
+</form>
+</body>
+</html>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+我的故事
+<html>
+<head><title>故事</title>
+</head>
+<body>
+<h1>我的故事由你书写哦！</h1>
+<form action="留言板.txt">
+性名： <input type="text" name="性名">
+<br>
+性别：	<select name="性别">
+	<option value="男">男<option>
+	<option  value="女">女<option>
+	</select>
+<br>
+大哥大姐想给我留言吗：<textarea rows="10" cols="30">
+   </textarea>
+<input type="submit" value="Submit">
+</form>
+<br>
+<a href="留言板.txt" align="right">
+<img border="0" src="图标.jpg"  align="right" width="70" height="40">
+</a>
+</body>
+</html>
